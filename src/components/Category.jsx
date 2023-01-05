@@ -49,7 +49,7 @@ const SLink = styled(NavLink)`
     cursor: pointer;
     transform: scale(0.8);
 
-    @media screen and (max-width: 425px) {
+    @media screen and (max-width: 640px) {
         margin: 0rem 0rem;
     }
 

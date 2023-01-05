@@ -19,7 +19,7 @@ function Recipe() {
     fetchDetails();
   }, [params.name]);
    
-
+ 
   return (
     <Detailwrapper>
       <div> 
